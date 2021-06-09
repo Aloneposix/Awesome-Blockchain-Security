@@ -22,7 +22,13 @@
 
 ## Blockchain Books
 
+[Mastering Bitcoin: Programming The Open Blockchain](https://book.douban.com/subject/33476106/)
 
+[Mastering Ethereum: Building Smart Contracts and DApps](https://book.douban.com/subject/33424766/)
+
+[精通以太坊智能合约开发](https://book.douban.com/subject/30333939/)
+
+[智能合约安全分析和审计指南](https://book.douban.com/subject/34613820/)
 
 ## Blockchain Bug Bounty Platform
 
