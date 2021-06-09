@@ -2,6 +2,28 @@
 
 > A collection of awesome resources, tools, and other shiny things for blockchain security researcher.
 
+## Solidity Basic Learning
+
+[Official Document - English](https://docs.soliditylang.org/)
+
+[Official Document - Chinese](https://learnblockchain.cn/docs/solidity/)
+
+[CryptoZombies](https://cryptozombies.io/)
+
+## Blockchain Security Papers
+
+[先知区块链安全板块](https://xz.aliyun.com/node/24)
+
+[Seebug Paper](https://paper.seebug.org/category/blockchain/)
+
+[Freebuf 区块链安全专区](https://www.freebuf.com/articles/blockchain-articles/)
+
+[安全客区块链安全专区](https://www.anquanke.com/tag/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AE%89%E5%85%A8)
+
+## Blockchain Books
+
+
+
 ## Blockchain Bug Bounty Platform
 
 [Immunefi](https://immunefi.com/)
@@ -13,5 +35,7 @@
 [DVPNET](https://dvpnet.io/)
 
 [SlowMist](https://www.slowmist.io/#bugBounty)
+
+[Bounty0x](https://bounty0x.io/)
 
 [BugBounter](https://bugbounter.com/)
