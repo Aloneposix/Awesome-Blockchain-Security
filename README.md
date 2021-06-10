@@ -2,6 +2,9 @@
 
 > A collection of awesome resources, tools, and other shiny things for blockchain security researcher.
 
+* Author: Aloneposix
+* Blog: [aloneposix.github.io](https://aloneposix.github.io/)
+
 ## Solidity Basic Learning
 
 [Official Document - English](https://docs.soliditylang.org/)
